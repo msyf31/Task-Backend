@@ -1,8 +1,8 @@
 Taask Backend Elroy Parama
 
 - Lamria Magdalena Tampubolon - Hustler
-- Musyaffa Afiful Umam - Hipster
+- Musyaffa Afiful Umam - Hacker
 - Samuel Sihotang - Hacker
 - Aqilah Cahya Ningrum - Hacker
-- Martha Napitupulu - Hipster
 - Aniec Anafisah Pratiwi - Hipster
+- Martha Napitupulu - Hipster
